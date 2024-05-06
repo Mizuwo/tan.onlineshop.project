@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "CARGO PANTS",
+        "price": 1000,
+        "image": "images/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "SHIRT SLEEVE",
+        "price": 1000,
+        "image": "images/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "MEN JACKET",
+        "price": 1000,
+        "image": "images/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "WHITE RUFFLE TOP",
+        "price": 1000,
+        "image": "images/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "APPLE VISION PRO",
+        "price": 1000,
+        "image": "images/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "ASUS ROG STRIX G15",
+        "price": 1000,
+        "image": "images/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "SAMSUNG GALAXY S23",
+        "price": 1000,
+        "image": "images/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "GAMING HEADSET",
+        "price": 1000,
+        "image": "images/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "DOUBLE BED",
+        "price": 1000,
+        "image": "images/9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "PINK CROWN CHAIR",
+        "price": 1000,
+        "image": "images/10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "CABINET",
+        "price": 1000,
+        "image": "images/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "APOLLO BOX",
+        "price": 1000,
+        "image": "images/12.jpg"
+    }
+]
